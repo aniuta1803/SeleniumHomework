@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Smoke Suite">
+    <test name="SpruceReceipeTest">
+        <classes>
+            <class name="com.test.spruceEats.tests.SpruceRecipeTest"></class>
+        </classes>
+
+    </test>
+
+</suite>
